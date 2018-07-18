@@ -1,0 +1,16 @@
+*~
+*.bak
+*.org
+Thumbs.db
+desktop.ini
+.DS_Store
+.buildpath
+.project
+.settings
+*.tmproj
+build
+.idea
+
+/package-lock.json
+/node_modules/
+/*.css
