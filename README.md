@@ -17,3 +17,5 @@ $ gulp
 ```
 
 
+# Result
+- files in `scss/.scss` are compiled to `style.css`
