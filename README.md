@@ -16,6 +16,8 @@ $ npm install --save-dev
 $ gulp
 ```
 
+# How to stop
+- Press `ctrl` + `c` to stop gulp server
 
 # Result
-- files in `scss/.scss` are compiled to `style.css`
+- Files in `scss/.scss` are compiled to `style.css`
